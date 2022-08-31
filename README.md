@@ -2,6 +2,6 @@
 Implementation of OpenCV
 
 
-**Image Operations** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/Opencv_Image_Operations.ipynb "Image Operations")
+**Image Operations** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/Image_Operations.ipynb "Image Operations")
 
-**Image Segmentation** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/OpenCv_Contours.ipynb "Contours")
+**Image Segmentation** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/Image_Segmentation.ipynb "Image Segmentation")
