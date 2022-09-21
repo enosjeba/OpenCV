@@ -17,4 +17,4 @@ Implementation of OpenCV in Python
 
 **Tilt-Shift Effect** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/Tilt_Shift_Effect.ipynb "Tilt-Shift")
 
-**Grab Cut Background Removal** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/GrabCut_Algorithm.ipynb "Grab Cut Algorithm")
+**Grab Cut Background Removal** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/GrabCut_Algorithm.ipynb "Grab Cut Background Removal")
