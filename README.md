@@ -1,5 +1,5 @@
 # OpenCV
-Implementation of OpenCv in python 
+Implementation of OpenCv in python via Google Colab
 
 
 **Image Operations** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/Image_Operations.ipynb "Image Operations")
