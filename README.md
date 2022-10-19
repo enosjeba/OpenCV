@@ -20,3 +20,5 @@ Implementation of OpenCv
 **Grab Cut Background Removal** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/GrabCut_Algorithm.ipynb "Grab Cut Background Removal")
 
 **OCR with PyTesseract** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/OCR_with_PyTesseract.ipynb "OCR with PyTesseract")
+
+**Barcode and QR Generation** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/Barcode_Generation_and_Reading.ipynb "Barcode and QR Generation")
