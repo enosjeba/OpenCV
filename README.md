@@ -18,3 +18,5 @@ Implementation of OpenCv
 **Tilt-Shift Effect** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/Tilt_Shift_Effect.ipynb "Tilt-Shift")
 
 **Grab Cut Background Removal** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/GrabCut_Algorithm.ipynb "Grab Cut Background Removal")
+
+**OCR with PyTesseract** [Click here to view notebook](http://nbviewer.org/github/enosjeba/OpenCV/blob/main/OCR_with_PyTesseract.ipynb "OCR with PyTesseract")
